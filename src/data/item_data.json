@@ -1,0 +1,452 @@
+[
+    {
+        "item_name": "Laptop",
+        "price": 15000000,
+        "company": "TechGiant",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Jakarta",
+        "image_link": "asset 1.webp"
+    },
+    {
+        "item_name": "Smartphone",
+        "price": 7000000,
+        "company": "MobileCorp",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Surabaya",
+        "image_link": "asset 15.webp"
+    },
+    {
+        "item_name": "Television",
+        "price": 5000000,
+        "company": "ElectroWorld",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Bandung",
+        "image_link": "asset 14.webp"
+    },
+    {
+        "item_name": "Refrigerator",
+        "price": 6000000,
+        "company": "HomeAppliances",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Medan",
+        "image_link": "asset 14.webp"
+    },
+    {
+        "item_name": "Microwave",
+        "price": 2000000,
+        "company": "KitchenTech",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Semarang",
+        "image_link": "asset 19.webp"
+    },
+    {
+        "item_name": "Air Conditioner",
+        "price": 8000000,
+        "company": "CoolBreeze",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Palembang",
+        "image_link": "asset 6.webp"
+    },
+    {
+        "item_name": "Washing Machine",
+        "price": 4000000,
+        "company": "CleanHome",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Makassar",
+        "image_link": "asset 22.webp"
+    },
+    {
+        "item_name": "Blender",
+        "price": 500000,
+        "company": "KitchenEssentials",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Batam",
+        "image_link": "asset 8.webp"
+    },
+    {
+        "item_name": "Vacuum Cleaner",
+        "price": 1500000,
+        "company": "HomeClean",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Denpasar",
+        "image_link": "asset 9.webp"
+    },
+    {
+        "item_name": "Dishwasher",
+        "price": 9000000,
+        "company": "KitchenMaster",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Yogyakarta",
+        "image_link": "asset 10.webp"
+    },
+    {
+        "item_name": "Oven",
+        "price": 3000000,
+        "company": "BakeWorld",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Malang",
+        "image_link": "asset 11.webp"
+    },
+    {
+        "item_name": "Coffee Maker",
+        "price": 1000000,
+        "company": "BrewPro",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Bandung",
+        "image_link": "asset 12.webp"
+    },
+    {
+        "item_name": "Toaster",
+        "price": 300000,
+        "company": "ToastCorp",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Surabaya",
+        "image_link": "asset 13.webp"
+    },
+    {
+        "item_name": "Rice Cooker",
+        "price": 400000,
+        "company": "CookMaster",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Jakarta",
+        "image_link": "asset 14.webp"
+    },
+    {
+        "item_name": "Water Purifier",
+        "price": 1500000,
+        "company": "PureWater",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Medan",
+        "image_link": "asset 15.webp"
+    },
+    {
+        "item_name": "Electric Kettle",
+        "price": 250000,
+        "company": "HotBrew",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Semarang",
+        "image_link": "asset 16.webp"
+    },
+    {
+        "item_name": "Mixer",
+        "price": 1000000,
+        "company": "MixMaster",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Palembang",
+        "image_link": "asset 17.webp"
+    },
+    {
+        "item_name": "Juicer",
+        "price": 850000,
+        "company": "JuiceWorld",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Makassar",
+        "image_link": "asset 18.webp"
+    },
+    {
+        "item_name": "Iron",
+        "price": 200000,
+        "company": "SmoothIron",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Batam",
+        "image_link": "asset 19.webp"
+    },
+    {
+        "item_name": "Hair Dryer",
+        "price": 500000,
+        "company": "StylePro",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Denpasar",
+        "image_link": "asset 20.webp"
+    },
+    {
+        "item_name": "Fan",
+        "price": 300000,
+        "company": "CoolAir",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Yogyakarta",
+        "image_link": "asset 21.webp"
+    },
+    {
+        "item_name": "Heater",
+        "price": 1200000,
+        "company": "WarmHome",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Jakarta",
+        "image_link": "asset 22.webp"
+    },
+    {
+        "item_name": "Camera",
+        "price": 6000000,
+        "company": "PhotoPro",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Surabaya",
+        "image_link": "asset 23.webp"
+    },
+    {
+        "item_name": "Printer",
+        "price": 1500000,
+        "company": "PrintTech",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Bandung",
+        "image_link": "asset 24.webp"
+    },
+    {
+        "item_name": "Scanner",
+        "price": 2000000,
+        "company": "ScanMaster",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Medan",
+        "image_link": "asset 25.webp"
+    },
+    {
+        "item_name": "Tablet",
+        "price": 4000000,
+        "company": "TabWorld",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Semarang",
+        "image_link": "asset 26.webp"
+    },
+    {
+        "item_name": "Monitor",
+        "price": 2500000,
+        "company": "DisplayTech",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Palembang",
+        "image_link": "asset 27.webp"
+    },
+    {
+        "item_name": "Projector",
+        "price": 5000000,
+        "company": "VisionPro",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Makassar",
+        "image_link": "asset 28.webp"
+    },
+    {
+        "item_name": "Headphones",
+        "price": 800000,
+        "company": "SoundMaster",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Batam",
+        "image_link": "asset 29.webp"
+    },
+    {
+        "item_name": "Speakers",
+        "price": 1200000,
+        "company": "AudioTech",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Denpasar",
+        "image_link": "asset 30.webp"
+    },
+    {
+        "item_name": "Router",
+        "price": 900000,
+        "company": "NetWorld",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Yogyakarta",
+        "image_link": "asset 31.webp"
+    },
+    {
+        "item_name": "Modem",
+        "price": 700000,
+        "company": "InternetTech",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Malang",
+        "image_link": "asset 32.webp"
+    },
+    {
+        "item_name": "Smart Watch",
+        "price": 3000000,
+        "company": "WearTech",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Bandung",
+        "image_link": "asset 33.webp"
+    },
+    {
+        "item_name": "Fitness Tracker",
+        "price": 1500000,
+        "company": "FitPro",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Surabaya",
+        "image_link": "asset 34.webp"
+    },
+    {
+        "item_name": "Electric Scooter",
+        "price": 5000000,
+        "company": "EcoRide",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Jakarta",
+        "image_link": "asset 35.webp"
+    },
+    {
+        "item_name": "Drone",
+        "price": 10000000,
+        "company": "FlyTech",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Medan",
+        "image_link": "asset 36.webp"
+    },
+    {
+        "item_name": "Gaming Console",
+        "price": 7000000,
+        "company": "GameWorld",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Semarang",
+        "image_link": "asset 37.webp"
+    },
+    {
+        "item_name": "VR Headset",
+        "price": 4000000,
+        "company": "VirtualTech",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Palembang",
+        "image_link": "asset 38.webp"
+    },
+    {
+        "item_name": "E-Reader",
+        "price": 2000000,
+        "company": "ReadPro",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Makassar",
+        "image_link": "asset 39.webp"
+    },
+    {
+        "item_name": "Portable Speaker",
+        "price": 1500000,
+        "company": "SoundWorld",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Batam",
+        "image_link": "asset 40.webp"
+    },
+    {
+        "item_name": "Smart Home Hub",
+        "price": 2500000,
+        "company": "HomeTech",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Denpasar",
+        "image_link": "asset 41.webp"
+    },
+    {
+        "item_name": "Security Camera",
+        "price": 3500000,
+        "company": "SecureWorld",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Yogyakarta",
+        "image_link": "asset 42.webp"
+    },
+    {
+        "item_name": "Baby Monitor",
+        "price": 1800000,
+        "company": "BabySafe",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Malang",
+        "image_link": "asset 43.webp"
+    },
+    {
+        "item_name": "Digital Thermometer",
+        "price": 500000,
+        "company": "HealthTech",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Bandung",
+        "image_link": "asset 44.webp"
+    },
+    {
+        "item_name": "Blood Pressure Monitor",
+        "price": 1200000,
+        "company": "HeartSafe",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Surabaya",
+        "image_link": "asset 45.webp"
+    },
+    {
+        "item_name": "Smart Scale",
+        "price": 800000,
+        "company": "FitScale",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Jakarta",
+        "image_link": "asset 46.webp"
+    },
+    {
+        "item_name": "Electric Toothbrush",
+        "price": 600000,
+        "company": "DentalPro",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Medan",
+        "image_link": "asset 47.webp"
+    },
+    {
+        "item_name": "Hair Clippers",
+        "price": 300000,
+        "company": "StyleTech",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Semarang",
+        "image_link": "asset 48.webp"
+    },
+    {
+        "item_name": "Massage Chair",
+        "price": 10000000,
+        "company": "RelaxPro",
+        "country": "Indonesia",
+        "tax_status": "PKP",
+        "city": "Palembang",
+        "image_link": "asset 49.webp"
+    },
+    {
+        "item_name": "Humidifier",
+        "price": 1200000,
+        "company": "AirPure",
+        "country": "Indonesia",
+        "tax_status": "Non PKP",
+        "city": "Makassar",
+        "image_link": "asset 50.webp"
+    }
+]
